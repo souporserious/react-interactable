@@ -2254,7 +2254,7 @@ loader-utils@^0.2.16:
     json5 "^0.5.0"
     object-assign "^4.0.1"
 
-lodash@^4.14.0, lodash@^4.17.2, lodash@^4.2.0, lodash@^4.6.1:
+lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.6.1:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
@@ -2395,6 +2395,10 @@ ms@0.7.2:
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
+
+namor@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/namor/-/namor-1.0.1.tgz#ac879d9b6a0a71abecac12da6393e27ab35fb757"
 
 nan@^2.3.0:
   version "2.6.2"
@@ -2835,6 +2839,12 @@ react-proxy@^1.1.7:
   dependencies:
     lodash "^4.6.1"
     react-deep-force-update "^1.0.0"
+
+react-tiny-virtual-list@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/react-tiny-virtual-list/-/react-tiny-virtual-list-2.0.5.tgz#e5ea199835bba05a55c69c00d6d00b73da9e2ba7"
+  dependencies:
+    prop-types "^15.5.7"
 
 react-transform-hmr@^1.0.4:
   version "1.0.4"
@@ -3448,6 +3458,16 @@ uid-number@^0.0.6:
 ultron@1.0.x:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/ultron/-/ultron-1.0.2.tgz#ace116ab557cd197386a4e88f4685378c8b2e4fa"
+
+universal-env@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/universal-env/-/universal-env-0.4.2.tgz#7da130650741b6c3c71262c1e21f05546c8b1b8d"
+
+universal-panresponder@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/universal-panresponder/-/universal-panresponder-0.4.2.tgz#cd9b7a2380cbb276bd10822be6ca2a1a336437d4"
+  dependencies:
+    universal-env "^0.4.2"
 
 unix-crypt-td-js@^1.0.0:
   version "1.0.0"
